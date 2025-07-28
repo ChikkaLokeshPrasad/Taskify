@@ -58,7 +58,7 @@ taskify/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/taskify.git
+git clone [https://github.com/your-username/taskify.git](https://github.com/ChikkaLokeshPrasad/Taskify)
 cd taskify
 ```
 
